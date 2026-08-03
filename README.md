@@ -72,7 +72,7 @@ Face-Expression-Detector/
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/tauseefkhan007/Face-Expression-Detector>
 ```
 
 Move into the project
