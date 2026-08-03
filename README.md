@@ -254,5 +254,5 @@ FER-2013 Dataset
 - **IDE:** Visual Studio Code
 
 > **License:** This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
+---
 > **Support:** If you found this project useful, please consider giving it a ⭐ on GitHub.
