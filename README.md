@@ -47,7 +47,7 @@ The model classifies human facial expressions into **seven emotions** using a **
 ## 📂 Project Structure
 
 ```text
-Face-Expression-Detector/
+Facial-Emotion-Recognition/
 │
 ├── dataset/
 │   ├── train/
