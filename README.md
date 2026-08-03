@@ -1,4 +1,4 @@
-# 😊 Face Expression Detector using Deep Learning
+# 😊 Facial Emotion Recognition
 
 A real-time facial emotion recognition system built using **TensorFlow**, **OpenCV**, and **Python**. The project uses a Convolutional Neural Network (CNN) trained on the FER-2013 dataset to classify facial expressions into seven emotions.
 
@@ -72,7 +72,7 @@ Face-Expression-Detector/
 Clone the repository
 
 ```bash
-git clone <https://github.com/tauseefkhan007/Face-Expression-Detector>
+git clone <https://github.com/tauseefkhan007/Facial-Emotion-Recognition>
 ```
 
 Move into the project
