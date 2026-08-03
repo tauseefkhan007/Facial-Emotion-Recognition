@@ -239,7 +239,7 @@ FER-2013 Dataset
 
 ---
 
-## 👨‍💻 Author
+## 🧑🏻‍💻 Author
 
 **Tauseef Khan**
 
@@ -257,12 +257,8 @@ FER-2013 Dataset
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+> **License:** This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-## ⭐ Support
-
-If you found this project useful, please consider giving it a ⭐ on GitHub.
+> **Support:** If you found this project useful, please consider giving it a ⭐ on GitHub.
