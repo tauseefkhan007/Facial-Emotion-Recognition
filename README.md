@@ -181,7 +181,11 @@ python src/predict.py
 
 ## 📚 Dataset
 
-FER-2013 Facial Expression Recognition Dataset
+FER-2013 Dataset
+
+- 35,887 grayscale images
+- Image size: 48×48
+- 7 emotion classes
 
 ---
 
