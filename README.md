@@ -147,11 +147,11 @@ python src/predict.py
 
 ### Accuracy
 
-> Add `results/accuracy.png` here after uploading.
+![Accuracy](results/accuracy.png)
 
 ### Loss
 
-> Add `results/loss.png` here after uploading.
+![Loss](results/loss.png)
 
 ---
 
