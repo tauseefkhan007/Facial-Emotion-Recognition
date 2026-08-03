@@ -78,6 +78,56 @@ Facial-Emotion-Recognition/
 
 ---
 
+## 📋 Prerequisites
+
+Before running this project, ensure the following software is installed on your system.
+
+### Windows
+
+- **Python 3.11 or later**
+  - https://www.python.org/downloads/windows/
+- **Git**
+  - https://git-scm.com/download/win
+
+---
+
+### macOS
+
+Install **Homebrew** (if not already installed):
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+Install Git and Python:
+
+```bash
+brew install git
+brew install python
+```
+
+---
+
+### Linux (Ubuntu/Debian)
+
+Update package list:
+
+```bash
+sudo apt update
+```
+
+Install Git, Python and pip:
+
+```bash
+sudo apt install git python3 python3-pip python3-venv -y
+```
+
+---
+
+> **Note:** This project was developed and tested on **macOS** using **Python 3.11**. It should also work on **Windows** and **Linux** with the required dependencies installed.
+
+---
+
 ## 🚀 Installation
 
 Clone the repository
@@ -207,6 +257,12 @@ FER-2013 Dataset
 
 ---
 
-## ⭐ If you found this project useful
+## 📄 License
 
-Please consider giving it a ⭐ on GitHub.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
