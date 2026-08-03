@@ -226,11 +226,11 @@ FER-2013 Dataset
 
 ## 📈 Training Graphs
 
-### Accuracy
+**Accuracy**
 
 ![Accuracy](results/accuracy.png)
 
-### Loss
+**Loss**
 
 ![Loss](results/loss.png)
 
