@@ -1,6 +1,17 @@
 # 😊 Facial Emotion Recognition
 
-A real-time facial emotion recognition system built using **TensorFlow**, **OpenCV**, and **Python**. The project uses a Convolutional Neural Network (CNN) trained on the FER-2013 dataset to classify facial expressions into seven emotions.
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.20-FF6F00?logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5.0-5C3EE8?logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-2.3-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10-11557C?logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.7-F7931E?logo=scikitlearn&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-macOS-000000?logo=apple&logoColor=white)
+![IDE](https://img.shields.io/badge/IDE-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+A real-time **Facial Emotion Recognition** system built using **Python, TensorFlow, Keras, and OpenCV**.  
+The model classifies human facial expressions into **seven emotions** using a **Convolutional Neural Network (CNN)** and supports **real-time webcam-based prediction**.
 
 ---
 
@@ -135,11 +146,13 @@ python src/predict.py
 
 ---
 
-## 📊 Model Performance
 
-**Test Accuracy:** **50.64%**
+## 📈 Model Performance
 
-**Test Loss:** **1.267**
+| Metric | Value |
+|--------|------:|
+| Test Accuracy | **50.64%** |
+| Test Loss | **1.267** |
 
 ---
 
@@ -175,6 +188,9 @@ FER-2013 Facial Expression Recognition Dataset
 ## 👨‍💻 Author
 
 **Tauseef Khan**
+
+- GitHub Profile: https://github.com/tauseefkhan007
+- Project Repository: https://github.com/tauseefkhan007/Facial-Emotion-Recognition
 
 ---
 
