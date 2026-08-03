@@ -130,25 +130,25 @@ sudo apt install git python3 python3-pip python3-venv -y
 
 ## 🚀 Installation
 
-### 1. Clone the repository
+**1. Clone the repository**
 
 ```bash
 git clone https://github.com/tauseefkhan007/Facial-Emotion-Recognition.git
 ```
 
-### 2. Navigate to the project directory
+**2. Navigate to the project directory**
 
 ```bash
 cd Facial-Emotion-Recognition
 ```
 
-### 3. Create a virtual environment
+**3. Create a virtual environment**
 
 ```bash
 python -m venv venv
 ```
 
-### 4. Activate the virtual environment
+**4. Activate the virtual environment**
 
 macOS/Linux
 ```bash
@@ -161,7 +161,7 @@ Windows
 venv\Scripts\activate
 ```
 
-### 5. Install dependencies
+**5. Install dependencies**
 
 ```bash
 pip install -r requirements.txt
