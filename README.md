@@ -130,25 +130,25 @@ sudo apt install git python3 python3-pip python3-venv -y
 
 ## 🚀 Installation
 
-Clone the repository
+### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/tauseefkhan007/Facial-Emotion-Recognition>
+git clone https://github.com/tauseefkhan007/Facial-Emotion-Recognition.git
 ```
 
-Move into the project
+### 2. Navigate to the project directory
 
 ```bash
-cd Face-Expression-Detector
+cd Facial-Emotion-Recognition
 ```
 
-Create a virtual environment
+### 3. Create a virtual environment
 
 ```bash
 python -m venv venv
 ```
 
-Activate it
+### 4. Activate the virtual environment
 
 ### macOS/Linux
 
@@ -162,13 +162,14 @@ source venv/bin/activate
 venv\Scripts\activate
 ```
 
-Install dependencies
+### 5. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
 ---
+
 
 ## ▶️ Training
 
@@ -196,6 +197,15 @@ python src/predict.py
 
 ---
 
+## 📚 Dataset
+
+FER-2013 Dataset
+
+- 35,887 grayscale images
+- Image size: 48×48
+- 7 emotion classes
+
+---
 
 ## 📈 Model Performance
 
@@ -229,22 +239,11 @@ python src/predict.py
 
 ---
 
-## 📚 Dataset
-
-FER-2013 Dataset
-
-- 35,887 grayscale images
-- Image size: 48×48
-- 7 emotion classes
-
----
-
 ## 🧑🏻‍💻 Author
 
 **Tauseef Khan**
 
 - GitHub Profile: https://github.com/tauseefkhan007
-- Project Repository: https://github.com/tauseefkhan007/Facial-Emotion-Recognition
 
 ---
 
@@ -254,8 +253,6 @@ FER-2013 Dataset
 - **Operating System:** macOS
 - **Python:** 3.11
 - **IDE:** Visual Studio Code
-
----
 
 > **License:** This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
