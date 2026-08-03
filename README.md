@@ -172,6 +172,8 @@ pip install -r requirements.txt
 
 ## ▶️ Training
 
+Run the following command to train the CNN model on the FER-2013 dataset.
+
 ```bash
 python src/train.py
 ```
@@ -179,6 +181,9 @@ python src/train.py
 ---
 
 ## 🎥 Webcam Detection
+
+
+Run the following command to start real-time facial emotion recognition
 
 ```bash
 python src/webcam.py
@@ -190,9 +195,13 @@ Press **Q** to quit the webcam.
 
 ## 🖼️ Predict a Single Image
 
+Run the following command to predict the facial emotion from a single image using the trained CNN model.
+
 ```bash
 python src/predict.py
 ```
+
+The script loads the trained model, processes the input image, and displays the predicted emotion along with its confidence score.
 
 ---
 
