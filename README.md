@@ -176,7 +176,14 @@ FER-2013 Facial Expression Recognition Dataset
 
 **Tauseef Khan**
 
-Machine Learning | Computer Vision | Java | Python
+---
+
+## 🖥️ Development Environment
+
+- **Device:** Apple MacBook Air
+- **Operating System:** macOS
+- **Python:** 3.11
+- **IDE:** Visual Studio Code
 
 ---
 
