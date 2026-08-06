@@ -84,7 +84,7 @@ Before running this project, ensure the following software is installed on your 
 
 ### 🪟 Windows
 
-- **Python 3.11 or later**  
+- **Python 3.11 **  
   https://www.python.org/downloads/windows/
 - **Git**  
   https://git-scm.com/download/win
@@ -111,8 +111,6 @@ Update the package list and install the required software:
 sudo apt update
 sudo apt install git python3 python3-pip python3-venv -y
 ```
-
-> **Note:** This project was developed and tested on **macOS** using **Python 3.11**. It is expected to work on **Windows** and **Linux** with the required dependencies installed.
 
 > **Note:** This project was developed and tested on **macOS** using **Python 3.11**. It is expected to work on **Windows** and **Linux** with the required dependencies installed.
 
