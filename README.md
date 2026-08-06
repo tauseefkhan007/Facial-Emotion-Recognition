@@ -80,25 +80,41 @@ Facial-Emotion-Recognition/
 
 ## 📋 Prerequisites
 
-Ensure the following software is installed before running the project.
+Before running this project, ensure the following software is installed on your system.
 
-| Software | Windows | macOS | Linux (Ubuntu/Debian) |
-|----------|---------|--------|------------------------|
-| **Python 3.11+** | https://www.python.org/downloads/windows/ | `brew install python` | `sudo apt install python3` |
-| **Git** | https://git-scm.com/download/win | `brew install git` | `sudo apt install git` |
-| **Virtual Environment** | Included with Python | Included with Python | `sudo apt install python3-venv` |
+### 🪟 Windows
 
-> **macOS:** Install Homebrew first (if not already installed):
+- **Python 3.11 or later**  
+  https://www.python.org/downloads/windows/
+- **Git**  
+  https://git-scm.com/download/win
+
+### 🍎 macOS
+
+Install **Homebrew** (if not already installed):
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+Install Git and Python:
+
+```bash
+brew install git python
+```
+
+### 🐧 Linux (Ubuntu/Debian)
+
+Update the package list and install the required software:
+
+```bash
+sudo apt update
+sudo apt install git python3 python3-pip python3-venv -y
+```
+
 > **Note:** This project was developed and tested on **macOS** using **Python 3.11**. It is expected to work on **Windows** and **Linux** with the required dependencies installed.
 
----
-
-> **Note:** This project was developed and tested on **macOS** using **Python 3.11**. It should also work on **Windows** and **Linux** with the required dependencies installed.
+> **Note:** This project was developed and tested on **macOS** using **Python 3.11**. It is expected to work on **Windows** and **Linux** with the required dependencies installed.
 
 ---
 
